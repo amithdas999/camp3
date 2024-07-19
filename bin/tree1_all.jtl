@@ -1,0 +1,37 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1720974917924,84591,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974917925,3137,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974917925,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974917925,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974918926,84705,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974918926,20253,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974918926,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974918927,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974919934,84697,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974919934,802,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974919934,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974919934,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974920938,84581,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974920939,581,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974920939,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974920939,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974921946,84626,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974921946,379,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974921946,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974921946,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974922947,84621,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974922948,198,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974922954,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974922954,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974923954,84678,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974923955,2112,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974923955,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974923955,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974924956,84667,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974924957,956,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974924957,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974924957,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974925957,84650,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1720974925957,785,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1720974925957,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1720974925957,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
